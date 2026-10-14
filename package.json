@@ -1,0 +1,19 @@
+{
+  "name": "migration-workbench",
+  "version": "1.0.0",
+  "description": "Agentic data migration planner and reconciliation workbench",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "express": "^4.21.0"
+  },
+  "license": "MIT"
+}

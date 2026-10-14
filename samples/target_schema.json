@@ -1,0 +1,11 @@
+[
+  { "name": "customer_id", "type": "string", "required": true },
+  { "name": "first_name", "type": "string", "required": true },
+  { "name": "last_name", "type": "string", "required": false },
+  { "name": "email", "type": "email", "required": true },
+  { "name": "phone", "type": "string", "required": false },
+  { "name": "signup_date", "type": "date", "required": true },
+  { "name": "balance", "type": "number", "required": false },
+  { "name": "is_active", "type": "boolean", "required": false },
+  { "name": "city", "type": "string", "required": false }
+]

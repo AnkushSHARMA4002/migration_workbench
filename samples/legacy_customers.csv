@@ -1,0 +1,21 @@
+Cust ID,Full Name,E-mail Address,Phone No,Signup Date,Account Balance,Is Active,City,Legacy Notes
+C001,Aarav Sharma,aarav.sharma@example.com,+91 98765 43210,15/03/2021,"$1,250.50",Yes,Pune,VIP
+C002,Diya Patel,diya.patel@example.com,98765-43211,2021-04-02,980,Y,Mumbai,
+C003,Rohan Mehta,ROHAN.MEHTA@EXAMPLE.COM,(022) 5550 1234,"Jan 5, 2020","Rs 12,000",No,Delhi,Churn risk
+C004,Isha Verma,,9876543212,20/07/2019,450.00,yes,Pune,No email on file
+C005,Kabir Singh,kabir.singh@example,9876543213,05/11/2022,300,Active,Jaipur,
+C006,Meera Nair,meera.nair@example.com,9876543214,31/02/2021,1500,Yes,Kochi,
+C007,Arjun Rao,arjun.rao@example.com,9876543215,12 Aug 2020,N/A,No,Hyderabad,
+C002,Diya Patel,diya.patel@example.com,98765-43211,2021-04-02,980,Y,Mumbai,Duplicate record
+C009,Sana Khan,sana.khan@example.com,12345,2023-01-18,(200),maybe,Lucknow,
+C010,Vikram Joshi,vikram.joshi@example.com,9876543218,18/06/2023,2200,No,,
+C011,Neha Gupta,neha.gupta@example.com,+91 98765 43219,2022-09-09,75.25,Yes,Pune,
+C012,Anil Kumar,anil.kumar@example.com,9876543220,2021-12-25,640,Y,Chennai,
+C013,Pooja Iyer,pooja.iyer@example.com,9876543221,2020-02-29,1800,N,Bengaluru,
+C014,Sameer Desai,sameer.desai@example.com,9876543222,2019-13-45,90,Yes,,
+C015,Tara Menon,tara.menon@example.com,9876543223,10/10/2022,"1,000",Yes,Kolkata,
+C016,Imran Qureshi,imran.q@example.com,9876543224,2021-07-07,3100,Yes,Bhopal,
+C017,Lata Bhatt,lata.bhatt@example.com,9876543225,2022-03-30,560,No,Ahmedabad,
+C018,Ritu Kapoor,,9876543226,2020-08-14,820,Yes,Delhi,
+C019,Yash Malhotra,yash.m@example.com,9876543227,2021-01-01,0,No,,
+C020,Zoya Ali,zoya.ali@example.com,9876543228,2023-05-05,2750.75,Yes,Pune,
