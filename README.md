@@ -1,4 +1,4 @@
-# Migration Workbench
+# Agentic Data Migration Planner and Reconciliation Workbench
 
 An agentic data migration planner and reconciliation workbench. Upload a legacy CSV and describe the target schema. An AI agent proposes a migration plan. A human approves, edits or rejects every mapping. The approved plan runs, the result is reconciled against the source, and the agent proposes fixes that a human approves before anything changes.
 
